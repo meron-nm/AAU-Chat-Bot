@@ -1,0 +1,65 @@
+{
+  "institution": "Addis Ababa University(AAU)",
+  "source": "aau_admissions",
+  "documents": [
+    {
+      "id": "registrar_responsibilities",
+      "content": "Section: Registrar Responsibilities. The Office of the University Registrar at Addis Ababa University oversees student admissions, enrollment, academic records, class scheduling, and graduation processes. It works closely with academic units to ensure efficient student intake, course registration, and academic record management. Additionally, it manages student information systems, organizes orientation for new students, and facilitates the issuance of transcripts and certificates. The office also prepares academic calendars, manages classroom allocations, and distributes student identification cards. The office is led by the University Registrar and a team of qualified professionals responsible for maintaining accurate and secure academic records.",
+      "metadata": {
+        "section": "registrar_responsibilities",
+        "type": "administrative_information",
+        "institution": "Addis Ababa University"
+      }
+    },
+    {
+      "id": "admission_overview",
+      "content": "Section: Admission Overview. The Office of the University Registrar is responsible for overseeing all operational matters related to student intake, admission, enrollment, and graduation. It works closely with academic units to ensure effective coordination of recruitment, course registration, and scheduling while also managing academic records and classroom allocations. The office develops and implements systems for student information management to ensure records are maintained securely and accurately. The office processes admissions and registrations, prepares academic calendars, and provides services such as issuing transcripts and student identification cards. It also organizes student orientation and prepares handbooks and catalogs to help new students transition into university life. The admission requirements vary greatly depending on the programs offered by the university. These include requirements for regular undergraduate programs, non-regular undergraduate programs, postgraduate programs, and special programs. Non-regular programs follow the same academic standards as regular programs, and applicants are evaluated using the same admission criteria and procedures.",
+      "metadata": {
+        "section": "admission_overview",
+        "type": "admission_information",
+        "institution": "Addis Ababa University"
+      }
+    },
+    {
+      "id": "undergraduate_fees",
+      "content": "Section: Fees for Undergraduate Studies (Ethiopian Students). Tuition fees are calculated per ECTS credit hour depending on the academic program category. Clinical practices including Medicine and Dental Medicine cost 2307.69 ETB per ECTS. Pharmacy, Veterinary Medicine, and other health science programs cost 1153.17 ETB per ECTS. Laboratory-based subjects include Software Engineering, Computer Science, and Architecture which cost 1500 ETB per ECTS. Information Science and Engineering cost 900 ETB per ECTS. Other Natural Science programs cost 600 ETB per ECTS. Subjects with a studio, laboratory, or fieldwork element cost approximately 917.71 ETB per ECTS. Programs related to Business, Economics, and Law cost approximately 700 ETB per ECTS. Social Sciences, Educational disciplines, Music, Art, Theatre, Humanities, Language Studies, and Journalism programs cost approximately 600 ETB per ECTS.",
+      "metadata": {
+        "section": "undergraduate_fees",
+        "currency": "ETB",
+        "type": "tuition_information",
+        "institution": "Addis Ababa University"
+      }
+    },
+
+    {
+      "id": "graduate_fees",
+      "content": "Section: Fees for Graduate Studies (Ethiopian Students). Graduate tuition fees are calculated per ECTS credit hour and vary by program. Clinical health programs such as Medicine and Dental Medicine cost approximately 3461.54 ETB per ECTS for master's programs and 4615.38 ETB per ECTS for PhD programs. Pharmacy, Veterinary Medicine, and other health science programs cost approximately 1729.76 ETB per ECTS for master's and 2306.34 ETB per ECTS for PhD. Laboratory-based programs including Software Engineering, Computer Science, and Architecture cost approximately 2250 ETB per ECTS for master's and 3000 ETB per ECTS for PhD programs. Information Science and Engineering cost approximately 1350 ETB per ECTS for master's and 1800 ETB per ECTS for PhD programs. Other natural science programs cost approximately 900 ETB per ECTS for master's and 1200 ETB per ECTS for PhD. Business, Economics, and Law programs cost approximately 1050 ETB per ECTS for master's and 1400 ETB per ECTS for PhD programs. Programs in Social Sciences, Educational disciplines, Music, Art, Theatre, Humanities, and Journalism cost approximately 900 ETB per ECTS for master's programs and 1200 ETB per ECTS for PhD programs.",
+      "metadata": {
+        "section": "graduate_fees",
+        "currency": "ETB",
+        "type": "tuition_information",
+        "institution": "Addis Ababa University"
+      }
+    },
+    {
+      "id": "thesis_fees",
+      "content": "Section: Specialty, Subspecialty Programs, Thesis and Dissertation Fees. Specialty and subspecialty programs cost approximately 3461.54 ETB or 4615.38 ETB per ECTS depending on the recommendation of the program unit delivering the program. Master's thesis for programs with studio, laboratory, fieldwork, social sciences, or humanities is calculated as 30 ECTS multiplied by 675 ETB per ECTS resulting in a total fee of approximately 20,250 ETB. Master's thesis for clinical health sciences, laboratory-based programs, business, and economics programs is calculated as 30 ECTS multiplied by 900 ETB per ECTS resulting in a total fee of approximately 27,000 ETB. PhD dissertations cost approximately 15,000 ETB per semester.",
+      "metadata": {
+        "section": "thesis_fees",
+        "currency": "ETB",
+        "type": "academic_fee",
+        "institution": "Addis Ababa University"
+      }
+    },
+    {
+      "id": "additional_academic_fees",
+      "content": "Section: Additional Academic Fees. Undergraduate internship, externship, or practicum programs cost approximately 5400 ETB per student. Senior essay or final research projects for undergraduate programs cost approximately 5375 ETB per student. Graduate practicum activities cost approximately 190 ETB per ECTS credit. Law externship programs cost approximately 190 ETB per ECTS credit. Laboratory use outside coursework for clinical and laboratory-based programs costs approximately 440 ETB per ECTS. Laboratory use outside coursework for social sciences, humanities, and business programs costs approximately 175 ETB per ECTS.",
+      "metadata": {
+        "section": "additional_academic_fees",
+        "currency": "ETB",
+        "type": "academic_fee",
+        "institution": "Addis Ababa University"
+      }
+    }
+  ]
+}
